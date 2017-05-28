@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="please_wait">Please, wait</string>
+    <string name="loading_progress">Loading…</string>
+    <string name="movies_progress">Loading movies…</string>
+    <string name="empty_movies">No movies :(</string>
+    <string name="title_activity_movie_details">MovieDetailsActivity</string>
+    <string name="movie_details">Movie details</string>
+    <string name="rating">Rating \u2014 %1$s/%2$s</string>
+    <string name="movie_title">%1$s \u2014 %2$s</string>
+
+</resources>
